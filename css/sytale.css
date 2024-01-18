@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+.container{
+    width: 1132px;
+    margin: 0 auto;
+}
+.lokotsya{
+    display: flex;
+}
+.nav__lokosya{
+    display: flex;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+.nav__tel{
+    display: flex;
+}
+.nav__line{
+    margin-top: 20px;
+}
+.header__logo{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+
+}
+.nav__list--link{
+    display: flex;
+    
+}
+.nav__btn{
+    width: 179px;
+    height: 40px;
+    border-radius: 5px;
+    color: white;
+    background: #4762FF;
+    border: 1px solid #4762FF;
+    transition: 0.4s;
+}
+.nav__btn:hover{
+    background-color: white;
+    color: #4762FF;
+}
+.nav__link{
+    margin: 10px;
+    color: black;
+}
+.truck__text{
+    font-size: 40px;
+    color: #333;
+    font-weight: bold;
+    margin-top: 100px;
+}
+.trick__text2{
+    color: rgba(51, 51, 51, 0.80);
+    margin-top: 5px;
+}
+.car__btn{
+    width: 170px;
+    height: 42px;
+    border-radius: 8px;
+    border: 1px solid #4762FF;
+    background-color: #4762FF;
+    color: white;
+    margin-top: 30px;
+    transition: 0.4s;
+}
+.car__btn:hover{
+    color: #4762FF;
+    background-color: white;
+}
+.car__truck{
+    width: 700px;
+}
+.car{
+    display: flex;
+    justify-content: space-between;
+}
+.title1{
+    text-align: center;
+    color: #333;
+}
+.title2{
+    text-align: center;
+    margin-top: 15px;
+    color: rgba(51, 51, 51, 0.80);
+    font-size: 13px;
+}
+.box__top1{
+    border-radius: 9px;
+    background-color: rgba(244, 246, 250, 1);
+    border: 1px solid rgba(244, 246, 250, 1);;
+    width: 550px;
+    height: 280px;
+    margin-top: 48px;
+    display: flex;
+
+}
+.box__top1--title1{
+    color: #333;
+    font-size: 24px;
+    margin-left: 28px;
+    margin-top: 25px;
+}
+.box__top1--title2{
+    color: rgba(51, 51, 51, 0.80);
+    font-size: 16px;
+    margin-left: 28px;
+    margin-top: 15px;
+}
+.car__datail{
+    width: 200px;
+    height: 200px;
+    margin-top: 75px;
+    margin-left: 50px;
+}
+
+.box__top{
+    display: flex;
+    justify-content: space-between;
+}
+.box__bottom{
+    display: flex;
+    justify-content: space-between;
+}
+.car__datail1{
+    width: 250px;
+    margin-top: 40px;
+}
+.car__datail2{
+    width: 300px;
+    height: 200px;
+    margin-top: 70px;
+    margin-left: 50px;
+}
+.photo__title1{
+    font-size: 48px;
+    color: #333;
+    margin-top: 145px;
+    font-weight: bold;
+}
+.photo__title2{
+    color: rgba(51, 51, 51, 0.80);
+    font-size: 15px;
+    margin-top: 16px;
+}
+.jk{
+    display: flex;
+}
+
